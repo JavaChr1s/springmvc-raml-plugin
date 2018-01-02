@@ -7,7 +7,7 @@
   <description>Maven Plugin offering RAML verification and generation functions</description>
   <groupId>com.github.JavaChr1s</groupId>
   <artifactId>springmvc-raml-plugin</artifactId>
-  <version>0.10.12a</version>
+  <version>0.10.12c</version>
   <goalPrefix>springmvc-raml</goalPrefix>
   <isolatedRealm>false</isolatedRealm>
   <inheritedByDefault>true</inheritedByDefault>
